@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NNUv0JwArztJ5sq+WK3cjg+SrFqTM6XUH6ZjbOyhQeg=",
+  "Source": "WebApiAppUserLogin",
+  "BasePath": "_content/WebApiAppUserLogin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
